@@ -1,2 +1,2 @@
-# nextjs-ecommerce
-Nextjs ecommerce site with strapi and stripe
+# nextjs-saas
+Nextjs saas site with stripe
